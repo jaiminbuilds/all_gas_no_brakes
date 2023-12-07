@@ -1,0 +1,3 @@
+[submodule "extension/designr_injection"]
+	path = extension/designr_injection
+	url = https://github.com/jaimindp/designr_injection.git
